@@ -12,11 +12,9 @@ function FileUpload() {
     return (
     <>
         <input type="file" id="file-selector" accept=".mp3" onChange={fileChange} multiple/>
-        <audio id="audio-player"/>
+        <audio id="audio-player" controls loop/>
     </>
     );
 }
-
-
 
 export default FileUpload;
