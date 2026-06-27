@@ -1,9 +1,12 @@
-import Button from "./Button/Button"
+import FileUpload from "./FileUpload"
 
 function App() {
   return (
     <>
-    <Button/>
+      <h1>
+      Files Heres Pleases
+      </h1>
+      <FileUpload/>
     </>
   )
 }
