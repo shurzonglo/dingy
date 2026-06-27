@@ -12,7 +12,8 @@
   "dependencies": {
     "@types/wicg-file-system-access": "^2023.10.7",
     "react": "^19.2.6",
-    "react-dom": "^19.2.6"
+    "react-dom": "^19.2.6",
+    "web-audio-api": "^1.5.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
